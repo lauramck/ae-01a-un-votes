@@ -65,10 +65,12 @@ unvotes %>%
     x = "Year",
     color = "Country"
   )
+  
 ```
 
 
 ## References {#references}
+
 1. Assignment Adapted from [Mine Cetinkaya-Rundel's Data Science in a Box](https://github.com/rstudio-education/datascience-box)
 1. David Robinson (2017). [unvotes](https://CRAN.R-project.org/package=unvotes): 
    United Nations General Assembly Voting Data. R package version 0.2.0.
